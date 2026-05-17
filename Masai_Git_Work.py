@@ -1,2 +1,5 @@
 print ("A")
 print ("B")
+print ("Ram")
+print ("Suriya")
+print ("Loki")
